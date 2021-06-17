@@ -37,17 +37,17 @@ META-package for install and configure Icecast.
 - UPD: Move to GitHub.
 - UPD: License.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.0-104
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-104
 - UPD: Configs.
 
-* Tue Jul 02 2019 Package Store <pkgstore@pm.me> - 1.0.0-103
+* Tue Jul 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-103
 - UPD: SPEC-file.
 
-* Sun Mar 31 2019 Package Store <pkgstore@pm.me> - 1.0.0-102
+* Sun Mar 31 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-102
 - UPD: "icecast.local.xml".
 
-* Sat Mar 30 2019 Package Store <pkgstore@pm.me> - 1.0.0-101
+* Sat Mar 30 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-101
 - NEW: 1.0.0-101.
 
-* Fri Feb 15 2019 Package Store <pkgstore@pm.me> - 1.0.0-100
+* Fri Feb 15 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-100
 - Initial build.
